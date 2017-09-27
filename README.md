@@ -4,7 +4,7 @@ and directory structure of your project. Using Local history enables you to view
 roll back to a previous state of any file, folder, and even restore deleted files.
 
 Local history is designed for a short-term usage. If you need to keep track of changes over longer time periods, use an external VCS. 
-Note also that Local history gets cleared when you install a new version of IntelliJ IDEA or when you [invalidate cashes](invalidate cashes).
+Note also that Local history gets cleared when you install a new version of IntelliJ IDEA or when you [invalidate cashes](https://www.jetbrains.com/help/idea/cleaning-system-cache.html).
 Therefore, it is a good idea to check in the changes to VCS before performing these operations.
 
 This section describes how to:
