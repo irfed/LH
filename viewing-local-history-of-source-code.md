@@ -20,7 +20,7 @@ to open the local history for the class file.
 
 ## <a name="view_method_field_history"></a>Viewing Local History of a Method or Field
 To view the local history of a method or field, 
-1. in the editor, place the cursor at the name of the method or field.
+1. In the editor, place the cursor at the name of the method or field.
 1. On the main **VCS** menu or on the context menu of the selection, choose **Local History | Show History for Method (Field)**.
 
 ## <a name="view_code_fragment_history"></a>Viewing Local History of a Code Fragment
