@@ -15,7 +15,7 @@ To view the local history of a class,
 1. In the editor, right-click the class name.
 1. On the context menu, choose **Local History | Show History for Class**.
 
-Alternatively, follow the steps described in [Viewing Local History for a File or Folder](viewing-local-history-of-a-file or-folder.md)
+Alternatively, follow the steps described in [Viewing Local History of a File or Folder](viewing-local-history-of-a-file-or-folder.md)
 to open the local history for the class file.
 
 ## <a name="view_method_field_history"></a>Viewing Local History of a Method or Field
