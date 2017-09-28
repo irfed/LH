@@ -9,10 +9,10 @@ Therefore, it is a good idea to check in the changes to VCS before performing th
 
 This section describes how to:
 
-* [View local history of a file or folder](viewing-local-history-of-a-file.md)
-* [View local history of a class, method, field, or code selection](viewing-local-history-of-a-source-code.md)
-* [Restore a deleted file](restoring-a-deleted-file)
-* [Revert to a previous version](reverting_to_a_previous-version.md)
-* [Put a label to a project](putting-labels.md)
-* [Create a patch](creating-patch.md)
+* [View local history of a file or folder](viewing-local-history-of-a-file-or-folder.md)
+* [View local history of a class, method, field, or code selection](viewing-local-history-of-source-code.md)
+* [Restore a deleted file](restoring-a-deleted-file.md)
+* [Revert to a previous version](reverting-to-a-previous-version.md)
+* [Put a label to a project](putting-lables.md)
+* [Create a patch](creating-a-patch.md)
     
